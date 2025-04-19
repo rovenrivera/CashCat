@@ -1,1 +1,4 @@
-# koni-app
+# TO BE DECIDED
+
+- Plaid API
+- 
